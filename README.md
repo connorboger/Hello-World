@@ -1,9 +1,9 @@
 # Hello-World
 My first repository
 
-## Title
-### Smaller Title
-**LeBron is the GOAT!** *And Here's Why:*
+## Who is the GOAT Of Basketball?
+### Is it MJ? Is it Kobe? Nope, it's...
+**LeBron James!** *And Here's Why:*
 1. First in all time points scored
 2. 4x NBA Champion
 3. 4x NBA MVP
